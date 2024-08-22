@@ -10,7 +10,7 @@ Currently, I’m pursuing my master’s degree in Computer Science in the Nether
 - **Tools:** CLI, Git, JetBrains IDEs, Unity Hub, VSC
 
 ## 🌐 Portfolio
-Check out my [personal website](https://zeri27.github.io/) to explore my work, research, and contributions. [WIP]
+Check out my [personal website](https://zeryabalam.com/) to explore my work, research, and contributions. 
 
 ## 📚 Current Goals
 - Dive deeper into data engineering and AI model optimization.
